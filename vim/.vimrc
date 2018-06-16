@@ -92,5 +92,10 @@ call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 " }}}
 
+" {{{ Git
+Plug 'https://github.com/tpope/vim-fugitive.git'
+" }}}
+
+
 call plug#end()
 " }}}
