@@ -1,7 +1,8 @@
 " My vim file
-" Prefered color scheme
 
 " {{{ Basic Settings
+
+" Prefered color scheme
 colorscheme murphy
 
 " Blocking the old blockers
